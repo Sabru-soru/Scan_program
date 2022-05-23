@@ -10,6 +10,8 @@ Created  April 2019
 # Kot alpha je določen ročno na 20
 # cca 1600 za report *1000
 
+#da vidimo če dela
+
 "POMEMBNO!!!!!!!"
 #  za nave zobnike 2021        if fi_cut_calc>88:                          #this is 90 by default
 # zaenkrat so fiksirane DIN vrednosti ker ne računa vredu
