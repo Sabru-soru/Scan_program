@@ -1,3 +1,5 @@
-# Zobniki_program
+# A method for enhanced polymer spur gear inspection based on 3D optical metrology
 
-Potrebno je urediti
+https://www.sciencedirect.com/science/article/pii/S0263224120311052
+
+Accurately manufactured gears require a reliable, holistic, and fast inspection method. Standardised geometrical parameters enable a consistent and regulated inspection of gears; however, current inspection methods include only a limited set of measurements for gears at specific locations. Therefore, a method to obtain holistic three-dimensional (3D) measurements with an optical inspection was thoroughly investigated. The measurement data were acquired via 3D optical scanning. The data were then processed and evaluated using the developed software. This was first tested on a simulated scan of an ideal shape with different mesh resolutions and subsequently on a simulated scan with synthetic deviations. The method was finally validated by measuring the gears using a coordinate-measuring machine; the results obtained were compared with those obtained using the developed optical method. A good agreement between the methods was observed. The optical method offers a more holistic measurement approach with many important advantages being identified compared with the tactile method.
