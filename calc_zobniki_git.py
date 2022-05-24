@@ -2,20 +2,6 @@
 Created  April 2019
 @author: Urbas
 """
-# =============================================================================
-# Zaenkrat uporabimo modul, da izračunamo razdelni krog.
-# Logika se podre, če so scani orientirani drugače
-# Ko bomo uredili model in ga razrezali je za preverit kolikšen del se zanemari pri flank profile
-# Flank profil določen po cilindru.
-# Kot alpha je določen ročno na 20
-# cca 1600 za report *1000
-
-
-"POMEMBNO!!!!!!!"
-#  za nave zobnike 2021        if fi_cut_calc>88:                          #this is 90 by default
-# zaenkrat so fiksirane DIN vrednosti ker ne računa vredu
-# temporary
-# =============================================================================
 
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -38,12 +24,7 @@ import matplotlib.font_manager as font_manager
 #%%
 "Import of the sections."
 
-#folder='Novi_scani_10_12_2020\\obdelava\\1_10\\1-10_3_geometric_alignment'
-#folder='Novi_scani_10_12_2020\\obdelava\\4_10'
-#folder='Novi_scani_10_12_2020\\obdelava\\CAD_obdelava'
-#folder='C:\\Users\\urosu\\Dropbox\\MR\Konference & clanki\\Boljsa_poravnava\\zmodelirani_odstopki\\nasa_poravnava\\dolocanje_parametrov'
-#folder='C:\\Users\\urosu\\Dropbox\\MR\\Konference & clanki\\Boljsa_poravnava\\obdelava podatkov\\vrednotenje_poravnav\\Tecaform1\\nasa_poravnava\\14_5_ICP_poizkus\\za_sliko_orientacija'
-#folder='C:\\Users\\urosu\\Dropbox\\MR\\Konference & clanki\\Boljsa_poravnava\\obdelava podatkov\\vrednotenje_poravnav\\Tecaform1\\referencna_poravnava_29_3_2021\\za_sliko_python'
+
 folder='C:\\Users\\urosu\\Dropbox\\MR\Konference & clanki\\Boljsa_poravnava\\obdelava podatkov\\zmodelirani_odstopki\\zamaknjena_luknja\\python_GOM'
 X=[]
 Y=[]
